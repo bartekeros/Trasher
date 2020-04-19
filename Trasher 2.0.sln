@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubbishLibrary", "RubbishLibrary\RubbishLibrary.csproj", "{AE184914-47A7-4C49-A8CF-2E86822EF233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromUI", "FromUI\FromUI.csproj", "{AD7ABD56-A489-4309-B7B8-CC7BDE5761CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE184914-47A7-4C49-A8CF-2E86822EF233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE184914-47A7-4C49-A8CF-2E86822EF233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE184914-47A7-4C49-A8CF-2E86822EF233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE184914-47A7-4C49-A8CF-2E86822EF233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7ABD56-A489-4309-B7B8-CC7BDE5761CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7ABD56-A489-4309-B7B8-CC7BDE5761CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7ABD56-A489-4309-B7B8-CC7BDE5761CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7ABD56-A489-4309-B7B8-CC7BDE5761CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D966366-0823-4DA2-A364-FF8B1B37AC8F}
+	EndGlobalSection
+EndGlobal

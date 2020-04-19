@@ -1,0 +1,6 @@
+C:\Users\Bartek\Documents\Visual Studio 2017\Projects\Trasher 2.0\RubbishLibrary\bin\Debug\RubbishLibrary.dll
+C:\Users\Bartek\Documents\Visual Studio 2017\Projects\Trasher 2.0\RubbishLibrary\bin\Debug\RubbishLibrary.pdb
+C:\Users\Bartek\Documents\Visual Studio 2017\Projects\Trasher 2.0\RubbishLibrary\obj\Debug\RubbishLibrary.csprojAssemblyReference.cache
+C:\Users\Bartek\Documents\Visual Studio 2017\Projects\Trasher 2.0\RubbishLibrary\obj\Debug\RubbishLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Documents\Visual Studio 2017\Projects\Trasher 2.0\RubbishLibrary\obj\Debug\RubbishLibrary.dll
+C:\Users\Bartek\Documents\Visual Studio 2017\Projects\Trasher 2.0\RubbishLibrary\obj\Debug\RubbishLibrary.pdb
