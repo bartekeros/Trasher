@@ -23,12 +23,12 @@ namespace FromUI
             rubbishRemover = new RubbishRemover();
 
             DisplayRubbishPaths.CheckOnClick = true;
-            Task.Run(() => InitializePaths(paths, patterns));
+            InitializePaths(paths, patterns);
         }
 
-        private async Task InitializePaths(List<string> paths, List<string> patterns)
+        private void InitializePaths(List<string> paths, List<string> patterns)
         {
-            await filesToRemove = rubbishRemover.FindRubbish(paths, patterns).ToList();
+            filesToRemove = rubbishRemover.FindRubbish(paths, patterns).ToList();
 
             DisplayPaths(true);
         }

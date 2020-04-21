@@ -44,7 +44,7 @@ namespace FromUI
         }
         private void RemovePathButton_Click(object sender, EventArgs e)
         {
-            pathsManager.RemovePath(PatternsListBox.SelectedItem.ToString());
+            pathsManager.RemovePath(PathsListBox.SelectedItem.ToString());
 
             UpdateListOfPaths();
         }
